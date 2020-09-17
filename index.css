@@ -1,0 +1,33 @@
+body {
+    background-color:#424241;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid  #827f78;
+    border-radius: 10%;
+    margin: 3%;
+    width: 60%;
+    height: 100px;
+  }
+
+th, td {
+    border-bottom: 1px solid #827f78;
+  }
+
+th {
+    color: #ffffff;
+    text-align: left;
+    padding: 1%;
+}
+
+td {
+    color:#827f78;  
+    padding: 1%;
+}
+
+.right {
+    text-align: right;
+}
+
+
